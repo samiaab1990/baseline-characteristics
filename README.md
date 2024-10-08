@@ -8,11 +8,11 @@ The baseline characteristics table app allows the generation of a baseline chara
 
 Upload data saved in .csv or .xlsx file
 
-<img src='file-upload.png'>
+<img src='./pics/file-upload.png'>
 
 After upload, you can see a data preview with the first 5 rows by default. You change the number of rows to expand preview. 
 
-<img src='preview.png' width='50%' height='50%'>
+<img src='./picspreview.png' width='50%' height='50%'>
 
 ### User Input
 
@@ -24,8 +24,12 @@ After file upload and preview, you can select:
   
 - <b>Test/b> Select wilcoxon rank sum or t-test as tests of choice for continuous variables.
   
-<img src='selection.png' width='50%' height='50%'>
+<img src='./pics/selection.png' width='50%' height='50%'>
 
-###
+### Generate Table
+
+Generate table and download results
+
+<img src='./pics/generate.png' width='50%' height='50%'>
 
 [App](https://samiaab1990.github.io/baseline-characteristics/)
