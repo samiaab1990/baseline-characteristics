@@ -1,5 +1,7 @@
 # Baseline Characteristics Table App 
 
+[App](https://samiaab1990.github.io/baseline-characteristics/)
+
 The baseline characteristics table app allows the generation of a baseline characteristics table with user inputs. Developed with R Shiny using the `gtsummary` package. 
 
 # Demo
@@ -14,7 +16,7 @@ After upload, you can see a data preview with the first 5 rows by default. You c
 
 <img src='./pics/preview.png' width='50%' height='50%'>
 
-### User Input
+## User Input
 
 After file upload and preview, you can select:
 
@@ -26,10 +28,9 @@ After file upload and preview, you can select:
   
 <img src='./pics/selection.png' width='50%' height='50%'>
 
-### Generate Table
+## Generate Table
 
 Generate table and download results
 
 <img src='./pics/generate.png' width='70%' height='70%'>
 
-[App](https://samiaab1990.github.io/baseline-characteristics/)
