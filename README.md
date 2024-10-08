@@ -16,7 +16,7 @@ After upload, you can see a data preview with the first 5 rows by default. You c
 
 ### Select co-variates, grouping variable and test
 
-<img src='selection.png'>
+<img src='selection.png' width='50%' height='50%'>
 ###
 
 [App](https://samiaab1990.github.io/baseline-characteristics/)
