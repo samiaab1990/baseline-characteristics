@@ -1,6 +1,6 @@
 # Baseline Characteristics Table App 
 
-This shiny application enables user to create a baseline characteristics table after uploading a .csv or .xlsx file 
+The baseline characteristics table app allows the generation of a baseline characteristics table with user inputs. Developed with R Shiny using the `gtsummary` package. 
 
 ## Demo
 
@@ -14,9 +14,18 @@ After upload, you can see a data preview with the first 5 rows by default. You c
 
 <img src='preview.png' width='50%' height='50%'>
 
-### Select co-variates, grouping variable and test
+### User Input
 
+After file upload and preview, you can select:
+
+- <b>Covariates</b>: the variables to compare between the groups
+
+- <b>Grouping variable</b>: The variable to group the data by
+  
+- <b>Test/b> Select wilcoxon rank sum or t-test as tests of choice for continuous variables.
+  
 <img src='selection.png' width='50%' height='50%'>
+
 ###
 
 [App](https://samiaab1990.github.io/baseline-characteristics/)
