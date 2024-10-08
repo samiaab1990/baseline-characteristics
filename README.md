@@ -12,7 +12,7 @@ Upload data saved in .csv or .xlsx file
 
 After upload, you can see a data preview with the first 5 rows by default. You change the number of rows to expand preview. 
 
-<img src='./picspreview.png' width='50%' height='50%'>
+<img src='./pics/preview.png' width='50%' height='50%'>
 
 ### User Input
 
@@ -22,7 +22,7 @@ After file upload and preview, you can select:
 
 - <b>Grouping variable</b>: The variable to group the data by
   
-- <b>Test/b> Select wilcoxon rank sum or t-test as tests of choice for continuous variables.
+- <b>Test</b> Select wilcoxon rank sum or t-test as tests of choice for continuous variables.
   
 <img src='./pics/selection.png' width='50%' height='50%'>
 
@@ -30,6 +30,6 @@ After file upload and preview, you can select:
 
 Generate table and download results
 
-<img src='./pics/generate.png' width='50%' height='50%'>
+<img src='./pics/generate.png' width='70%' height='70%'>
 
 [App](https://samiaab1990.github.io/baseline-characteristics/)
