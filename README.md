@@ -22,7 +22,7 @@ After file upload and preview, you can select:
 
 - <b>Grouping variable</b>: The variable to group the data by
   
-- <b>Test</b> Select wilcoxon rank sum or t-test as tests of choice for continuous variables.
+- <b>Test</b>: Select wilcoxon rank sum or t-test as tests of choice for continuous variables.
   
 <img src='./pics/selection.png' width='50%' height='50%'>
 
