@@ -5,6 +5,7 @@ This shiny application enables user to create a baseline characteristics table a
 ## Demo
 
 ### File Upload 
+<img src='file-upload.png'>
 ###
 ###
 
