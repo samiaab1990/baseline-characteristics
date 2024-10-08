@@ -2,9 +2,9 @@
 
 The baseline characteristics table app allows the generation of a baseline characteristics table with user inputs. Developed with R Shiny using the `gtsummary` package. 
 
-## Demo
+# Demo
 
-### File Upload 
+## File Upload 
 
 Upload data saved in .csv or .xlsx file
 
