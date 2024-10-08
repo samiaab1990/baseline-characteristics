@@ -1,5 +1,11 @@
-# Baseline Characteristics Table Shiny App 
+# Baseline Characteristics Table App 
 
-This shiny application enables a user to create a baseline characteristics table using the `gtsummary` R package. 
+This shiny application enables user to create a baseline characteristics table after uploading a .csv or .xlsx file 
 
-Available here:  https://samiaab1990.github.io/baseline-characteristics/
+## Demo
+
+### File Upload 
+###
+###
+
+[App](https://samiaab1990.github.io/baseline-characteristics/)
